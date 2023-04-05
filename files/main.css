@@ -1,0 +1,15 @@
+.card-img-1 {
+    border-radius: 50%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.col-lg-4 {
+    text-align: center;
+    background-color: rgb(160, 95, 95);
+    padding: 10px;
+}
+
+.card-body {
+    background-color: rgb(163, 163, 163);
+}
